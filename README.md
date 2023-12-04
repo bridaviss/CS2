@@ -11,11 +11,11 @@ Each section header will direct you to the respective folder.
 4. A reference section containing all acknolwedgments and references.
 
    
-## [DATA Section](https://github.com/bridaviss/ProjectM3/tree/main/DATA):
+## Accessing the Data:
 - You can download the data set from here:
     - https://fred.stlouisfed.org
         - Within the search field, search your commodity of choice and chose the time series data that is examining the global price of the commodity.
         - An example: https://fred.stlouisfed.org/series/PCOTTINDUSDM
-- If you are interested in the example commodities (barley, corn, and cotton), you can also download the datasets from the DATA Section of this Github.
+- If you are interested in the example commodities (barley, corn, and cotton), you can also download the datasets from the [Materials Folder]() of this Github.
 
 
