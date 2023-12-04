@@ -5,7 +5,7 @@ This project aims to explore the impact of the FIFA World Cup on the prices of c
 
 ### What you will find in this repo: 
 Each section header will direct you to the respective folder.
-1. The "HookDocument - ": This gives you more insight on what you can learn with completing this project.
+1. The "HookDocument - Learn More about this Project!": This gives you more insight on what you can learn with completing this project.
 2. The "CS2Rubric": This document provides specific insight on what the specific deliverable is expected to complete this project.
 3. [Materials Folder](): Contains the data source, potential commodity examples, and articles that are related to this research
 4. A reference section containing all acknolwedgments and references.
